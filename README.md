@@ -1,6 +1,6 @@
 # java-desktop-app-starter
 
-A starter template for JavaFX projects.
+A template for desktop applications with JavaFX.
 
 ### Dependencies
 ---
