@@ -1,4 +1,4 @@
-# java-desktop-app-starter
+# javafx-starter
 
 A template for desktop applications with JavaFX.
 
