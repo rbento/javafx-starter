@@ -5,7 +5,7 @@ A template for desktop applications with JavaFX.
 ### Dependencies
 ---
 
-- [Java 11][1]
+- [Java 18][1]
 - [Maven][2]
 - [JavaFX][3]
 
@@ -16,7 +16,7 @@ A template for desktop applications with JavaFX.
 $ mvn clean javafx:run
 ```
 
-[1]:https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot
+[1]:https://www.oracle.com/java/technologies/downloads/#java18
 [2]:https://maven.apache.org
 [3]:https://openjfx.io
 [4]:https://github.com/openjfx/javafx-maven-plugin
